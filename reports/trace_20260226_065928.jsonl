@@ -1,0 +1,4 @@
+{"path": "/home/acer1/sparkenv/cifer_full_run/parquet/cifer_full_train_parquet", "event": "hf_full_parquet_exists", "run_tag": "20260226_065928", "ts_utc": "2026-02-26T06:59:28.943307+00:00"}
+{"cols": 11, "event": "spark_parquet_read", "run_tag": "20260226_065928", "ts_utc": "2026-02-26T06:59:29.018209+00:00"}
+{"rows": 1000, "per_class": 500, "event": "balanced_sample_created", "run_tag": "20260226_065928", "ts_utc": "2026-02-26T06:59:29.262650+00:00"}
+{"note": "cleaned dataframe ready", "event": "spark_cleaned_ready", "run_tag": "20260226_065928", "ts_utc": "2026-02-26T06:59:29.296873+00:00"}

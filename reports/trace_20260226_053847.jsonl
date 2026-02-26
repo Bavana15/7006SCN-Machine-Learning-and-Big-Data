@@ -1,0 +1,2 @@
+{"path": "/home/acer1/sparkenv/cifer_full_run/parquet/cifer_full_train_parquet", "event": "hf_full_parquet_exists", "run_tag": "20260226_053847", "ts_utc": "2026-02-26T05:38:50.074586+00:00"}
+{"cols": 11, "event": "spark_parquet_read", "run_tag": "20260226_053847", "ts_utc": "2026-02-26T05:38:52.023366+00:00"}

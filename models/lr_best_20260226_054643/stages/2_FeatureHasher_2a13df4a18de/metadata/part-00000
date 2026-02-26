@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.FeatureHasher","timestamp":1772084840837,"sparkVersion":"3.5.1","uid":"FeatureHasher_2a13df4a18de","paramMap":{"outputCol":"id_vec","inputCols":["nameOrig","nameDest"],"numFeatures":65536},"defaultParamMap":{"outputCol":"FeatureHasher_2a13df4a18de__output","numFeatures":262144}}
